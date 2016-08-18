@@ -66,7 +66,7 @@ open beta build can be downloaded from: https://ibm.biz/iibopenbeta
 2. Copy the built file into the installation directory:
 
   `sudo cp -f gettingstartedsw.lil /opt/ibm/iib-10.0.0.5/server/lil/` (Linux and Mac OS X)  
-  `copy /y gettingstartedsw.lil "C:\Program Files\IBM\IIB\10.0.0.5\server\lil\"` (Windows)
+  `copy /y gettingstartedsw.lil "C:\Program Files\IBM\IIB\10.0.0.5\server\bin\"` (Windows)
 
 3. Start all integration nodes again:
 
